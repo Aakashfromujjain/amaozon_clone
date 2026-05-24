@@ -1,6 +1,6 @@
 # amazon_clone
 ecommerce amazon clone
-#frontend UI design for ecoomerce website using html css(TAILWINDCSS)
+#frontend UI design for ecoomerce website using HTML CSS(TAILWINDCSS)
 
 
 
